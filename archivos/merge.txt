@@ -2,3 +2,5 @@ Bryant Samuel Prada García
 22
 Pasarla a la primera :D
 Porque al agregar un archivo txt dentro de la carpeta, detectó un cambio.
+
+Se debe tener mucho cuidado al momento de realizar los cambios desde diferentes ubicaciones ya que al modificar un archivo o creal uno nuevo puede presentar incompatibilidades en muchos aspectos (nombre, contenido, etc.)
